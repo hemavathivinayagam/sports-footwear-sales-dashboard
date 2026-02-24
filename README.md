@@ -13,7 +13,7 @@ The dashboard provides insights into:
 - Payment method distribution
 
 ## Dataset used
-- <a href="https://github.com/hemavathivinayagam/sports-footwear-sales-dashboard/commit/7b1da8ebb5dc5ec869c19cf1314ade71e6489776#diff-0756fa7030d41242529da5983e44d26f0d279d47e227484ebbd89b6a3c509b26">Dataset</a>
+- <a href="https://github.com/hemavathivinayagam/sports-footwear-sales-dashboard/blob/main/dataset.csv.csv">Dataset</a>
 
 ## Business Problem
 The company operates across multiple countries, brands, and product categories.  
@@ -51,3 +51,13 @@ This dashboard helps convert raw data into actionable business insights.
 - Which country receives the highest discount amount?
 - What is the overall impact of discount on net revenue?
 - Which sales channel offers more discounts?
+
+## Dashboard
+<img width="1441" height="817" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/edd65b36-b7b0-4857-b0d8-06c4aa248a04" />
+- <a href="https://github.com/hemavathivinayagam/sports-footwear-sales-dashboard/blob/main/sports_footwear.pbix">View Dashboard</a>
+
+## Tools Used
+- Power BI Desktop 
+- Power Query (Data Cleaning and manipulating)
+- DAX (Measures)
+- Interactive Filters & Slicers
