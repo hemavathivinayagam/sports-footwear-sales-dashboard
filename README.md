@@ -14,3 +14,15 @@ The dashboard provides insights into:
 
 ## Dataset used
 - <a href="https://github.com/hemavathivinayagam/sports-footwear-sales-dashboard/commit/7b1da8ebb5dc5ec869c19cf1314ade71e6489776#diff-0756fa7030d41242529da5983e44d26f0d279d47e227484ebbd89b6a3c509b26">Dataset</a>
+
+## Business Problem
+The company operates across multiple countries, brands, and product categories.  
+Management needs a centralized dashboard to:
+
+- Identify top-performing brands
+- Understand customer satisfaction
+- Track high-demand models
+- Monitor discount impact
+- Analyze gender-based buying patterns
+
+This dashboard helps convert raw data into actionable business insights.
